@@ -1,0 +1,3 @@
+[submodule "flutter-app-upgrade"]
+	path = flutter-app-upgrade
+	url = https://github.com/LaoMengFlutter/flutter-app-upgrade.git
